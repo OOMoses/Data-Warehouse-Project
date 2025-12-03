@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing solution. It is desig
 
 ## 🏗️ Data Architecture
 
-The data architecture follows the **Medallion Architecture** consisting of Bronze, Silver, and Gold layers:
+The data architecture follows the **Medallion Architecture** consisting of **Bronze, Silver, and Gold** layers:
 
 ![Data Architecture](docs/data_architecture.png)
 
