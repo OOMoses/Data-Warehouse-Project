@@ -71,7 +71,7 @@ Key stakeholders included:
 
 ---
 
-## 🏗 Solution Architecture (Medallion Design)
+## 🗼 Data Architecture (Medallion Design)
 
 ![Data Architecture](docs/data_architecture.png)
 
